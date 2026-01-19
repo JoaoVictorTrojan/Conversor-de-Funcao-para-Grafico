@@ -15,11 +15,12 @@ Este projeto foi desenvolvido para ajudar nos estudos sobre a representação de
 - Python  
 
 
-**- Ferramentas:**
- -MatPlotLib
- -CustomTkinter
- -Sympy
- -Numpy
+### Bibliotecas / Ferramentas
+- Matplotlib  
+- CustomTkinter  
+- SymPy  
+- NumPy  
+
 
 ---
 
